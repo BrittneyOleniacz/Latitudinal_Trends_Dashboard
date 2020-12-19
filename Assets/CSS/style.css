@@ -4,7 +4,7 @@ h1 {
 }
 
 h2 {
-    color: cornflowerblue;
+    color: rgb(167, 110, 36);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -14,7 +14,7 @@ h2 {
     padding: 10px 10px 10px 10px;
 }
 .pane {
-    background-color:lavenderblush;
+    background-color:rgb(77, 59, 35);
 }
 .main-image {
     float: left;
