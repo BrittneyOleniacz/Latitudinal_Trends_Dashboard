@@ -1,11 +1,7 @@
-
-
-
-
-
+<table border="1" class="dataframe">
   <thead>
-    <tr style="text-align: left;">
-      <th>City ID</th>
+    <tr style="text-align: right;">
+      <th></th>
       <th>City Name</th>
       <th>Country</th>
       <th>Latitude</th>
@@ -15,6 +11,18 @@
       <th>Cloudiness</th>
       <th>Wind</th>
       <th>Date</th>
+    </tr>
+    <tr>
+      <th>City ID</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
     </tr>
   </thead>
   <tbody>
