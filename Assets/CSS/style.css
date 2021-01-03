@@ -1,27 +1,37 @@
+
+/* body {
+    background-color: lavenderblush;} */
 h1 {
-    color: rgb(28, 187, 174);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
+    color: black;
+    font-family: 'Arial';
+    font-weight: bold}
 h2 {
-    color: rgb(248, 252, 248);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
+    color: black;
+    font-family: 'Arial'}
 h3 {
-    color: rgb(248, 252, 248);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
+    color: black;
+    font-family: 'Arial'}
 h4 {
-    color: rgb(248, 252, 248);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
+    font-size: 14pt;
+    color: black;
+    font-family: 'Arial'}
 h5 {
-    color: rgb(248, 252, 248);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
+    color: black;
+    font-family: 'Arial'}
 p {
-    color: rgb(248, 252, 248);
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
+    color: black;
+    font-family: 'Arial'}
+.summary-text {
+    font-size: 12pt;
+    color:#171618;
+    font-family: 'Arial'}
+.text-center {
+    font-size: 16pt;
+    color:#171618;
+    font-family: 'Arial'}
 .visualization-img {
     width: 225px; 
-    height: 175px;
-    padding: 2px}
-.pane {
-    background-color:rgb(10, 10, 0)}
+    height: 175px}
 .main-image {
     float: left;
     width: 450px;
@@ -31,10 +41,8 @@ p {
     width: 300;
     height: 250}
 .comp-img {
-    float: center;
-    width: 250px; 
-    height: 200px}
+    width: 750px; 
+    height: 600px}
 .hemi-img {
-    width: 550px; 
-    height: 400px;
-    padding: 10px}
+    width: 950px; 
+    height: 700px}
