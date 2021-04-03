@@ -9,17 +9,17 @@ ORGANIZATION: Create individual pages for each plot and a means by which we can 
 ### Website Requirements
 1. The website must consist of 7 pages total, including:
     * A [landing page](#landing-page) containing:
-      * An explanation of the project.
-     * Links to each visualizations page
-     * Include a sidebar containing preview images of each plot whereas clicking an image should take the user to that visualization.
+         * An explanation of the project.
+         * Links to each visualizations page
+         * Include a sidebar containing preview images of each plot whereas clicking an image should take the user to that visualization.
     * Four [visualization pages](#visualization-pages), each with:
-     * A descriptive title and heading tag.
-     * The plot/visualization itself for the selected comparison.
-     * A paragraph describing the plot and its significance.
+         * A descriptive title and heading tag.
+         * The plot/visualization itself for the selected comparison.
+         * A paragraph describing the plot and its significance.
     * A ["Comparisons" page](#comparisons-page) that:
-     * Must contain all of the visualizations on the same page so we can easily visually compare them.
-     * Hint: Uses a Bootstrap grid for the visualizations.
-     * Don't forget to consider different screen sizes. The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
+         * Must contain all of the visualizations on the same page so we can easily visually compare them.
+         * Hint: Uses a Bootstrap grid for the visualizations.
+         * Don't forget to consider different screen sizes. The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small                  screens.
     * A ["Data" page](#data-page) that Uses a bootstrap component, display a responsive table containing the data used in the visualizations.
 2. Navigation: The website must, at the top of every page, have a navigation menu that:
     * Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
