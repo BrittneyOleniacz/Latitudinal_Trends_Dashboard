@@ -20,11 +20,12 @@ ORGANIZATION: Create individual pages for each plot and a means by which we can 
    * Must contain all of the visualizations on the same page so we can easily visually compare them.
    * Hint: Uses a Bootstrap grid for the visualizations.
      * Don't forget to consider different screen sizes. The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
-  * A ["Data" page](#data-page) that:  
-  * Using a bootstrap component, display a responsive table containing the data used in the visualizations.
+  * A ["Data" page](#data-page) that Uses a bootstrap component, display a responsive table containing the data used in the visualizations.
+
 2. Navigation: The website must, at the top of every page, have a navigation menu that:
  * Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
  * Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
  * Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
  * Is responsive (using media queries). The nav must have similar behavior as the screenshots ["Navigation Menu" section](#navigation-menu) (notice the background color change).
+
 3. Deployments: the website must be deployed to GitHub pages, with the website working on a live, publicly accessible URL as a result.
