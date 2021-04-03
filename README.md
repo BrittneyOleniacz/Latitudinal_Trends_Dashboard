@@ -1,4 +1,4 @@
-#Visualizing Latitudinal Trends
+# Visualizing Latitudinal Trends
 
 ## Background
 OBJECTIVE: Data is more powerful when we share it with others!
