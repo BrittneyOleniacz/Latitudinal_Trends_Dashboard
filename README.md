@@ -2,14 +2,13 @@
 
 ## Background
 ### Objective
-= = =
 Data is more powerful when we share it with others!
+
+
 ### Task
-- - -
 Create a visualization dashboard website using visualizations created in a past assignment. Specifically, we'll be plotting [weather data](Resources/cities.csv).
 
 ### Organization and requirements
-- - -
 Create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 1. The website must consist of 7 pages total, including:
     * A [landing page](#landing-page) containing:
@@ -29,5 +28,5 @@ Create individual pages for each plot and a means by which we can navigate betwe
     * Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
     * Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
     * Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
-    * Is responsive (using media queries). The nav must have similar behavior as the screenshots ["Navigation Menu" section](#navigation-menu) (notice the background color change).
+    * Is responsive (using media queries). The nav must have similar behavior as the screenshots ["Navigation Menu" section](#navigation-menu) (notice the background         color change).
 3. Deployments: the website must be deployed to GitHub pages, with the website working on a live, publicly accessible URL as a result.
