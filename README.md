@@ -1,12 +1,13 @@
 # Visualizing Latitudinal Trends
 
 ## Background
-OBJECTIVE: Data is more powerful when we share it with others!
-TASK: Create a visualization dashboard website using visualizations created in a past assignment. Specifically, we'll be plotting [weather data](Resources/cities.csv).
+### Objective
+Data is more powerful when we share it with others!
+### Task
+Create a visualization dashboard website using visualizations created in a past assignment. Specifically, we'll be plotting [weather data](Resources/cities.csv).
 
-ORGANIZATION: Create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
-
-### Website Requirements
+### Organization and requirements
+Create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 1. The website must consist of 7 pages total, including:
     * A [landing page](#landing-page) containing:
          * An explanation of the project.
@@ -19,7 +20,7 @@ ORGANIZATION: Create individual pages for each plot and a means by which we can 
     * A ["Comparisons" page](#comparisons-page) that:
          * Must contain all of the visualizations on the same page so we can easily visually compare them.
          * Hint: Uses a Bootstrap grid for the visualizations.
-         * Don't forget to consider different screen sizes. The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small                  screens.
+         * Don't forget to consider different screen sizes. The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens.
     * A ["Data" page](#data-page) that Uses a bootstrap component, display a responsive table containing the data used in the visualizations.
 2. Navigation: The website must, at the top of every page, have a navigation menu that:
     * Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
