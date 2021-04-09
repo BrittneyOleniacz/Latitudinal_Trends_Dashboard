@@ -1,9 +1,7 @@
 # Visualizing Latitudinal Trends
 
-## Background
 ### Objective
 Data is more powerful when we share it with others!
-
 
 ### Task
 Create a visualization dashboard website using visualizations created in a past assignment. Specifically, we'll be plotting [weather data](Resources/cities.csv).
